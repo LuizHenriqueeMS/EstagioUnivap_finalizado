@@ -1,1 +1,1 @@
-# EstagioUnivap_finalizado
+# Este projeto foi desenvolvido durante o processo de estágio com finalidade de desenvolver um sistema web para controle de ordens de serviço do setor de manutenção da Universidade do Vale do Paraíba.
